@@ -8,6 +8,7 @@ public class CoinCapAsset{
     public string marketCapUSD{get;set;}
     public string volumeUSD24Hr{get;set;}
     public string priceUSD{get;set;}
+    //sgfiukwegfugerkgkerjggkes
     public string changePercent24Hr{get;set;}
     public string vwap24Hr{get;set;}
     public string IconUrl =>
